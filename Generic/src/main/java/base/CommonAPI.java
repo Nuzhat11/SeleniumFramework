@@ -34,7 +34,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
 
-    public static ExtentReports extent
+    public static ExtentReports extent;
 
     public static WebDriver driver = null;
 
